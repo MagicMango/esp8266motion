@@ -1,0 +1,7 @@
+.git/*
+.vs/*
+__vm/*
+Release/*
+Debug/*
+*.sln
+*.vcxproj*
